@@ -1,3 +1,6 @@
+# Created by https://www.toptal.com/developers/gitignore/api/windows,linux,macos,venv,python,visualstudiocode,pycharm+all
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,macos,venv,python,visualstudiocode,pycharm+all
+
 ### Linux ###
 *~
 
@@ -363,8 +366,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# =========================
-# Project Specific
-# =========================
-# Ignore generated PDFs during development and testing
-*.pdf
+# End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,venv,python,visualstudiocode,pycharm+all
